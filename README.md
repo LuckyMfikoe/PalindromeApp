@@ -1,1 +1,1 @@
-This is a Palindrome App in Java
+This is a desktop Palindrome App in Java
